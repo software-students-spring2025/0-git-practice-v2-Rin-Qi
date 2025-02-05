@@ -8,4 +8,4 @@
 > In fact, Google found that half of smartphone users are likely to use a brand’s mobile site because they don’t want to download an app.
 > Many companies are turning to progressive web apps (PWAs) to find a solution.
 
-I noticed that this is a trend in China, because instead of mobile Apps, people now use Wechat as the medium to use different Apps. But I never thought that people in the States also follow this trend too, using web as the substitution of Apps. Does that mean that the demand for software engineers will decrease?？
+I noticed that this is a trend in China, because instead of mobile Apps, people now use Wechat as the medium to use different Apps. But I never thought that people in the States also follow this trend too, using web as the substitution of Apps. Does that mean that the demand for software engineers will decrease?
